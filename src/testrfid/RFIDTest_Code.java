@@ -38,6 +38,11 @@ public class RFIDTest_Code extends javax.swing.JDialog {
     UHF.Reader18 tnt = new UHF.Reader18();      /*  Make Object of Reader18 Class in which All the Native Methods of DLL
                                                 Declared */
     
+    //  HELLO NEERAJ GANGWAL
+    //  HOW ARE YOU ?
+    
+//    I AM FINE
+    
     /**
      * Creates new form RFTest
      * @param parent
